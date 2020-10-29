@@ -1,1 +1,1 @@
-print test_03
+print test_03print test_02_add01
